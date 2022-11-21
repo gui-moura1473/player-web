@@ -1,5 +1,5 @@
 let musicas = [
-    {titulo:'in the dark', artista:'Bring Me The Horizon', src:'musicas/Bring Me The Horizon - in the dark.mp3', img:'imagens/image1.jpg'},
+    {titulo:'in the dark', artista:'Bring Me The Horizon - banda top', src:'musicas/Bring Me The Horizon - in the dark.mp3', img:'imagens/image1.jpg'},
     {titulo:'nihilist blues', artista:'Bring Me The Horizon', src:'musicas/Bring Me The Horizon - nihilist blues.mp3', img:'imagens/image2.jpg'},
     {titulo:'Catastrophist', artista:'Trivium', src:'musicas/Trivium - Catastrophist.mp3', img:'imagens/image3.jpg'}
 ];
