@@ -38,6 +38,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    cursor: pointer;
 }
 
 progress {
@@ -75,7 +76,6 @@ progress {
 
 .botao-play:hover, .botao-pause:hover, .setas:hover {
     color: #A9A9A9;
-    text-shadow: 1px 1px 2px #F0FFFF, -1px -1px 2px #F0FFFF;
 }
 
 
